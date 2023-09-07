@@ -1,0 +1,51 @@
+station,station_name,Entries,Exits
+RM,Richmond,58940,55853
+EN,El Cerrito Del Norte,87642,90217
+EP,El Cerrito Plaza,49852,49632
+NB,North Berkeley,46950,44942
+BK,Berkeley,118302,123180
+AS,Ashby,51830,49312
+MA,MacArthur,94830,91758
+19,19th Street Oakland,113251,107926
+12,12th Street / Oakland City Center,119623,115837
+LM,Lake Merritt,71296,74767
+FV,Fruitvale,95590,94081
+CL,Coliseum,80998,84167
+SL,San Leandro,76414,77476
+BF,Bayfair,62762,63233
+HY,Hayward,50911,50708
+SH,South Hayward,34806,33132
+UC,Union City,43594,43973
+FM,Fremont,48888,49297
+CN,Concord,59232,58652
+PH,Pleasant Hill,54380,53772
+WC,Walnut Creek,63845,64033
+LF,Lafayette,35684,35172
+OR,Orinda,28986,28095
+RR,Rockridge,58658,59130
+OW,West Oakland,93142,84396
+EM,Embarcadero,370182,420668
+MT,Montgomery Street,295434,336738
+PL,Powell Street,337468,304277
+CC,Civic Center,251308,234454
+16,16th Street Mission,150447,154355
+24,24th Street Mission,139558,138430
+GP,Glen Park,81193,78022
+BP,Balboa Park,96422,87415
+DC,Daly City,97685,100488
+CM,Colma,37259,36964
+CV,Castro Valley,29002,28969
+ED,Dublin/Pleasanton,77292,76364
+NC,North Concord,15056,14718
+WP,Pittsburg/Bay Point,42324,42817
+SS,South San Francisco,32478,32512
+SB,San Bruno,34767,36323
+SO,San Francisco International Airport,111823,97143
+MB,Millbrae,59485,57004
+WD,West Dublin/Pleasanton,30657,31954
+OA,Oakland International Airport,18667,17768
+WS,Warm Springs,32346,30327
+ML,Milpitas,29439,29299
+BE,Berryessa / North San José,33569,34344
+PC,Pittsburg Center,12839,12214
+AN,Antioch,42109,42907
